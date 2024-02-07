@@ -21,7 +21,7 @@ git clone https://github.com/reykjanestech/sport-club-app.git
 3. Navigate to the project directory:
 
 ```bash
-cd expo-supabase-starter
+cd sport-club-app
 ```
 
 4. Install the required dependencies:

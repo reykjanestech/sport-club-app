@@ -73,7 +73,7 @@ export default function SignUp() {
 					Sign Up
 				</Text>
 				<Text className="text-sm text-muted-foreground self-start mb-5">
-					to continue to Expo Supabase Starter
+					to continue to sport club app
 				</Text>
 				<Form {...form}>
 					<View className="gap-4">

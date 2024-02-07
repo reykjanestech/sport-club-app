@@ -20,11 +20,10 @@ export default function WelcomeScreen() {
 		>
 			<View className="flex flex-1 items-center justify-center gap-y-4">
 				<Text className="text-4xl text-foreground font-extrabold tracking-tight lg:text-5xl text-center">
-					Welcome to Expo Supabase Starter
+					Welcome to the sport club app
 				</Text>
 				<Text className="text-sm text-muted-foreground text-center">
-					A simple template for developing Expo applications with Supabase as
-					the backend.
+					A simple app that solves club supporters dilemma!
 				</Text>
 			</View>
 			<View className="flex flex-row gap-x-4">
