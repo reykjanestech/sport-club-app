@@ -1,21 +1,27 @@
-MIT License
+Knattspyrnudeild Keflavíkur Mobile Application Development License
 
-Copyright (c) 2024 Knattspyrnudeild Keflavíkur
+Introduction
+This document outlines the licensing terms for the development of the Knattspyrnudeild Keflavíkur Mobile Application (the "Application") hosted on this GitHub repository. The intent is to foster community contributions to the Application's development while ensuring that the final product's use remains exclusive to Knattspyrnudeild Keflavíkur and its members, excluding competitive soccer clubs.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Grant of License for Development
+Subject to the terms and conditions of this License, contributors are granted a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, make derivative works of, and contribute to the Application in this repository for the sole purpose of contributing to the Application’s development.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Restrictions
+a. Contributors must not use, distribute, or contribute to the Application with the intent to facilitate use by any soccer clubs participating in competitions deemed competitive to Knattspyrnudeild Keflavíkur.
+b. Any contributions to the Application are subject to approval and integration by the project maintainers, who reserve the right to determine the suitability of all contributions to the Application’s goals and usage policies.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. Ownership and Intellectual Property
+a. All contributions to the Application shall be under the same terms as this License, without any additional terms or conditions.
+b. Contributors agree to grant Knattspyrnudeild Keflavíkur a perpetual, worldwide, non-exclusive, royalty-free license to use, reproduce, modify, publish, distribute, and make derivative works of their contributions within the scope of the Application’s intended use.
+
+4. No Endorsement
+Contribution to the Application does not constitute an endorsement of the final product or its intended use by contributors.
+
+5. Disclaimer
+The Application is provided "as is", without warranty of any kind, express or implied. In no event shall the contributors or copyright holders be liable for any claim, damages, or other liability arising from the use or inability to use the Application.
+
+6. Governing Law
+This License and the contributions to the Application are governed by the laws of Iceland, without regard to its conflict of law principles.
+
+Conclusion
+By contributing to the Knattspyrnudeild Keflavíkur Mobile Application, contributors accept and agree to be bound by the terms and conditions of this License.
